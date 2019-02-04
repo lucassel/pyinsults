@@ -1,6 +1,6 @@
 # pyinsults
 
-That's right, harness the power of ´Python´ to dynamically call your users really inapropriate names.
+That's right, harness the power of `Python` to dynamically call your users really inapropriate names.
 
 # Installation
 
