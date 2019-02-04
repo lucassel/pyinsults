@@ -1,7 +1,7 @@
 import random
 
-adjectives = ["stinking", "whining", "pathetic", "ugly", "obnoxious", "low-life"]
-insults = ["asshole", "cumstain", "foolio", "dickwad", "Trump voter", "Justin Bieber fan"]
+adjectives = ["stinking", "whining", "pathetic", "ugly", "obnoxious", "low-life", "nasty-ass"]
+insults = ["asshole", "cumstain", "foolio", "dickwad", "Trump voter", "Justin Bieber fan", "retard", "fuckface", "cocksmoker"]
 
 def random_insult():
   return random.choice(insults)
@@ -9,5 +9,3 @@ def random_insult():
 def long_insult():
   return ' '.join([random.choice(adjectives), random.choice(insults)])
 
-if __name__ == "__main__":
-  random_insult()
