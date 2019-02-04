@@ -6,6 +6,8 @@ That's right, harness the power of ´Python´ to dynamically call your users rea
 
 Install using ```pip install pyinsults```
 
+Upgrade *frequently* using ```pip install pyinsults --upgrade```
+
 
 # Usage
 
