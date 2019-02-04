@@ -1,6 +1,6 @@
-# insults
+# pyinsults
 
-A Python package for helping you call your users dirty names.
+That's right, harness the power of ´Python´ to dynamically call your users really inapropriate names.
 
 # Installation
 
