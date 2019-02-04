@@ -20,7 +20,7 @@ Upgrade *frequently* using ```pip install pyinsults --upgrade```
 ``` print(insults.long_insult()) ```
 > stinking dickwad
 
-``` print("Have a nice day, you {}!".format(insults.long_insult())) ```
+``` print(insults.insultify("Have a nice day, you {}!")) ```
 > Have a nice day, you stinking dickwad!
 
 
