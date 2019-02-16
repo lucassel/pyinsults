@@ -10,7 +10,7 @@ def readme():
 
 setup(
     name="pyinsults",
-    version="0.0.0.0.8",
+    version="0.0.0.0.11",
     description="A Python module, allowing you to cuss at your users.",
     long_description=readme(),
     long_description_content_type="text/plain",
