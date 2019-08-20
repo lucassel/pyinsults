@@ -1,6 +1,7 @@
 import random
 
 adjectives = [
+
   "stinking",
   "whining",
   "pathetic",
@@ -15,10 +16,14 @@ adjectives = [
   "toupéd",
   "witless",
   "backwards",
+  "undercooked",
+  "absolute",
+  "monumental",
 ]
 
 insults = [
   "asshole",
+  "moron",
   "cumstain",
   "foolio",
   "dickwad",
@@ -38,8 +43,21 @@ insults = [
   "fucknugget",
   "thundercunt",
   "numpty",
-  "fleshbag"
-  "cocksplat"
+  "fleshbag",
+  "cocksplat",
+  "cabbage",
+  "peasant",
+  "farmer",
+  "crayon chewer",
+  "tosser",
+  "git",
+  "muppet",
+  "plonker",
+  "knob head",
+  "bell end",
+  "arsemonger",
+  "maggot"
+
 
 ]
 
